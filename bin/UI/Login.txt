@@ -1,0 +1,59 @@
+<UIInterface>
+	<UIElement Type ="2" ParentName="" ParentID="0" Name="FrameLongin">
+		<ElementName>FrameLongin</ElementName>
+		<Visible>1</Visible>
+		<EventEnable>0</EventEnable>
+		<Pos x="0" y="0"></Pos>
+		<Size width="1024" height="768"></Size>
+		<Scale scalex=1 scaley=1></Scale>
+		<DragEnable>0</DragEnable>
+		<Alpha>255</Alpha>
+		<FramePicture>UI\\startpic.png</FramePicture>
+	</UIElement>
+	
+	<UIElement Type ="1" ParentName="FrameLongin" ParentID="1" Name="ButtonLogin">
+		<ElementName>ButtonLogin</ElementName>
+		<Visible>1</Visible>
+		<EventEnable>1</EventEnable>
+		<EventProcName>LoginConnect</EventProcName>
+		<Pos x="0" y="465"></Pos>
+		<Size width="250" height="100"></Size>
+		<Scale scalex=1 scaley=1></Scale>
+		<DragEnable>0</DragEnable>
+		<Alpha>255</Alpha>
+		<ButtonPictureDefault>UI\\startbutton.png</ButtonPictureDefault>
+		<ButtonPictureMoveto>UI\\startbutton经过.png</ButtonPictureMoveto>
+		<ButtonPictureDown>UI\\startbutton按下.png</ButtonPictureDown>
+	</UIElement>
+
+	<UIElement Type ="1"   ParentName="FrameLongin" ParentID="2" Name="ButtonExit">
+		<ElementName>ButtonExit</ElementName>
+		<Visible>1</Visible>
+		<EventEnable>1</EventEnable>
+		<EventProcName>LoginQuit</EventProcName>
+		<Pos x="565" y="465"></Pos>
+		<Size width="250" height="100"></Size>
+		<DragEnable>1</DragEnable>
+		<Scale scalex=1 scaley=1></Scale>
+		<Alpha>255</Alpha>
+		<ButtonPictureDefault>UI\\Outbutton.png</ButtonPictureDefault>
+		<ButtonPictureMoveto>UI\\Outbutton经过.png</ButtonPictureMoveto>
+		<ButtonPictureDown>UI\\Outbutton按下.png</ButtonPictureDown>
+	</UIElement>
+        <UIElement Type ="1"   ParentName="FrameLongin" ParentID="3" Name="ButtonRand">
+		<ElementName>ButtonRand</ElementName>
+		<Visible>0</Visible>
+		<EventEnable>1</EventEnable>
+		<EventProcName>RandFangkuai</EventProcName>
+		<Pos x="100" y="500"></Pos>
+		<Size width="68" height="37"></Size>
+		<DragEnable>1</DragEnable>
+		<Scale scalex=1 scaley=1></Scale>
+		<Alpha>255</Alpha>
+		<ButtonPictureDefault>UI\\随机.png</ButtonPictureDefault>
+		<ButtonPictureMoveto>UI\\随机按下.png</ButtonPictureMoveto>
+		<ButtonPictureDown>UI\\随机按下.png</ButtonPictureDown>
+	</UIElement>
+       
+        
+</UIInterface>

@@ -1,0 +1,98 @@
+﻿“D3DX封装.exe”(Win32): 已加载“G:\vs2017\DXWC\617\D3DX封装\bin\D3DX封装.exe”。已加载符号。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\win32u.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32full.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp_win.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d9.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmm.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\D3DX9_42.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\D3DX9_42.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\msvcrt.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ucrtbased.dll”
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\vcruntime140d.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\winmmbase.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\winmmbase.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\winmmbase.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\combase.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\D3DX9_42.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ucrtbased.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\TextInputFramework.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\CoreMessaging.dll”
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\CoreUIComponents.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\SHCore.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\WinTypes.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_5601d21ccd639df9\nvldumd.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\crypt32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\msasn1.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\wintrust.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\imagehlp.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptsp.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\rsaenh.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcrypt.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_5601d21ccd639df9\nvd3dum.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_5601d21ccd639df9\nvd3dum.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_5601d21ccd639df9\nvd3dum.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\windows.storage.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\powrprof.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\fltLib.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\nvspcap.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\nvspcap.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\nvspcap.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+线程 0x430 已退出，返回值为 0 (0x0)。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Windows\SysWOW64\ResourcePolicyClient.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPI.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\setupapi.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\psapi.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已加载“C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting32.dll”。无法查找或打开 PDB 文件。
+“D3DX封装.exe”(Win32): 已卸载“C:\Program Files\NVIDIA Corporation\Ansel\Tools\NvCameraWhitelisting32.dll”
+“D3DX封装.exe”(Win32): 已加载“C:\Windows\SysWOW64\usp10.dll”。无法查找或打开 PDB 文件。
+线程 0x1afc 已退出，返回值为 1 (0x1)。
+线程 0x2270 已退出，返回值为 1 (0x1)。
+线程 0xe40 已退出，返回值为 1 (0x1)。
+线程 0x243c 已退出，返回值为 1 (0x1)。
+线程 0x2320 已退出，返回值为 1 (0x1)。
+线程 0x16d0 已退出，返回值为 1 (0x1)。
+线程 0x2840 已退出，返回值为 1 (0x1)。
+线程 0x3448 已退出，返回值为 1 (0x1)。
+程序“[9956] D3DX封装.exe”已退出，返回值为 1 (0x1)。

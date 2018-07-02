@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GameApp">
+      <UniqueIdentifier>{eeb7a724-7d7e-4a34-86ec-e45a7ee0a1d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PlatForm">
+      <UniqueIdentifier>{4d73553d-938b-4f44-964b-344b8ef0a29b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="单例">
+      <UniqueIdentifier>{6dccc923-84cb-4c8b-aa95-867d3171d4a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XML">
+      <UniqueIdentifier>{18de98cc-8ad2-4bed-b977-f6d7f2098a9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="观察者">
+      <UniqueIdentifier>{eb87ff02-e7e3-495d-80d7-4fe3de3cb3c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{d16972ef-08dc-400c-a7c6-538028087f72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="管理类">
+      <UniqueIdentifier>{28204445-17e9-40c3-b9b5-e14653537fea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{8f6343e4-703d-492d-ad0b-f2501bac8753}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{26c77e86-5bf8-4b1b-b73e-5568bea91d49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="对象实例类">
+      <UniqueIdentifier>{ae5e2e2e-b5a2-4808-9c31-d3e9c7d6e898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{dd7d86d5-b47b-49e1-afdd-5131453d4964}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="粒子">
+      <UniqueIdentifier>{f96664dc-12e9-45a9-9e27-19fbb7c7e27a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D3DX封装.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameApp.h">
+      <Filter>GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>PlatForm</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>单例</Filter>
+    </ClInclude>
+    <ClInclude Include="tinystr.h">
+      <Filter>XML</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml.h">
+      <Filter>XML</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphSystem.h">
+      <Filter>观察者</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.h">
+      <Filter>观察者</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>观察者</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseInterface.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckBox.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="EditBox.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Frame.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemBox.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBox.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIPicture.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIManager.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>管理类</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticText.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineDef.h">
+      <Filter>GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Picture.h">
+      <Filter>resource</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderObject.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>对象实例类</Filter>
+    </ClInclude>
+    <ClInclude Include="CMap.h">
+      <Filter>对象实例类</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>对象实例类</Filter>
+    </ClInclude>
+    <ClInclude Include="Sky.h">
+      <Filter>对象实例类</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>对象实例类</Filter>
+    </ClInclude>
+    <ClInclude Include="Hourse.h">
+      <Filter>对象实例类</Filter>
+    </ClInclude>
+    <ClInclude Include="Bridge.h">
+      <Filter>对象实例类</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelCopy.h">
+      <Filter>对象实例类</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiAnim.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D3DX封装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameApp.cpp">
+      <Filter>GameApp</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>PlatForm</Filter>
+    </ClCompile>
+    <ClCompile Include="tinystr.cpp">
+      <Filter>XML</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml.cpp">
+      <Filter>XML</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlerror.cpp">
+      <Filter>XML</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlparser.cpp">
+      <Filter>XML</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphSystem.cpp">
+      <Filter>观察者</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSystem.cpp">
+      <Filter>观察者</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseInterface.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckBox.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="EditBox.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Frame.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemBox.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBox.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIPicture.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIManager.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>管理类</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticText.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Picture.cpp">
+      <Filter>resource</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>对象实例类</Filter>
+    </ClCompile>
+    <ClCompile Include="CMap.cpp">
+      <Filter>对象实例类</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>对象实例类</Filter>
+    </ClCompile>
+    <ClCompile Include="Sky.cpp">
+      <Filter>对象实例类</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>对象实例类</Filter>
+    </ClCompile>
+    <ClCompile Include="Hourse.cpp">
+      <Filter>对象实例类</Filter>
+    </ClCompile>
+    <ClCompile Include="Bridge.cpp">
+      <Filter>对象实例类</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelCopy.cpp">
+      <Filter>对象实例类</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiAnim.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D3DX封装.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D3DX封装.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

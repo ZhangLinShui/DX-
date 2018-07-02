@@ -1,0 +1,19 @@
+del /s *.ncb
+del /s *.ilk
+del /s *.manifest
+del /s *.manifest.res
+del /s *.obj
+del /s *.pch
+del /s *.pdb
+del /s Buildlog.htm
+del /s *.dep
+del /s *.idb
+del /s *.db
+del /s *.ipch
+del /s *.log
+del /s *.tlog
+del /s *.sdf
+del /s *.enc
+del /s *.r88
+del /s *.r112
+pause
