@@ -1,0 +1,17 @@
+﻿1>------ 已启动生成: 项目: D3DX封装, 配置: Debug Win32 ------
+1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+1>  GameApp.cpp
+1>d:\dxwc\5.17\d3dx封装\src\component.h(33): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+1>d:\dxwc\5.17\d3dx封装\src\component.h(34): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+1>d:\dxwc\5.17\d3dx封装\src\component.h(35): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+1>d:\dxwc\5.17\d3dx封装\src\component.h(38): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+1>d:\dxwc\5.17\d3dx封装\src\component.h(39): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+1>d:\dxwc\5.17\d3dx封装\src\component.h(47): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+1>d:\dxwc\5.17\d3dx封装\src\component.h(48): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+1>d:\dxwc\5.17\d3dx封装\src\component.h(49): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+1>d:\dxwc\5.17\d3dx封装\src\component.h(50): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+1>d:\dxwc\5.17\d3dx封装\src\component.h(51): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+1>d:\dxwc\5.17\d3dx封装\src\gameapp.cpp(89): warning C4715: “CGameApp::CreateGameWindow”: 不是所有的控件路径都返回值
+1>  D3DX封装.vcxproj -> D:\DXWC\5.17\D3DX封装\src\../bin\D3DX封装.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========

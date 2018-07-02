@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="gb2312" standalone="yes" ?>
+<ObjectS>
+	<Obj Type ="1" Name="MapManager">
+	     <ResName>./res/object/map/map128.bmp</ResName>
+       <贴图1>./res/object/map/grass.jpg</贴图1>
+       <贴图2>./res/object/map/地形石地01.dds</贴图2>
+	</Obj>               
+ 
+  <Obj Type ="5" Name="Camera">
+        <Pos x="0" y="550" z="-350"></Pos>
+        <Pos2 x="0" y="410" z="0"></Pos2>
+	</Obj> 
+        <Obj Type ="6" Name="SkyBox">
+	</Obj> 
+        <Obj Type ="8" Name="River">
+	</Obj> 
+        <Obj Type ="7" Name="Light">
+	
+        <Obj Type ="10" Name="Hourse1">
+	</Obj>
+ 
+  
+  
+  
+  <Obj Type ="11" Name="1xpoint5-ramp">
+    <Mesh>./res/object/player/dx模型/1xpoint5-ramp.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate>0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1xpoint5-rampCopy1">
+    <Pos x="0" y="0" z="0"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1xpoint5-ramp</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1xpoint5-rampCopy2">
+    <Pos x="-40" y="20" z="0"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1xpoint5-ramp</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1xpoint5-rampCopy3">
+    <Pos x="-80" y="40" z="0"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1xpoint5-ramp</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+
+
+
+
+
+
+  <Obj Type ="11" Name="point5xpoint5-blue-05">
+    <Mesh>./res/object/player/dx模型/point5xpoint5-blue-05.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy1">
+    <Pos x="-317" y="100" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy2">
+    <Pos x="-337" y="100" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy3">
+    <Pos x="-357" y="100" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy4">
+    <Pos x="-377" y="100" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy5">
+    <Pos x="-317" y="100" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy6">
+    <Pos x="-337" y="100" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy7">
+    <Pos x="-357" y="100" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy8">
+    <Pos x="-377" y="100" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy9">
+    <Pos x="-462" y="0" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy10">
+    <Pos x="-462" y="0" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy11">
+    <Pos x="-952" y="20" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy12">
+    <Pos x="-952" y="20" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="point5xpoint5-blue-05Copy13">
+    <Pos x="-952" y="60" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-blue-05Copy14">
+    <Pos x="-952" y="60" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-blue-05</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+
+
+
+
+  
+  
+  
+  
+  <Obj Type ="11" Name="point5xpoint5-grey">
+    <Mesh>./res/object/player/dx模型/point5xpoint5-grey.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy1">
+    <Pos x="-2" y="0" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy2">
+    <Pos x="-2" y="0" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy3">
+    <Pos x="-22" y="0" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy4">
+    <Pos x="-22" y="0" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy5">
+    <Pos x="-82" y="40" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy6">
+    <Pos x="-82" y="40" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy7">
+    <Pos x="-102" y="40" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy8">
+    <Pos x="-102" y="40" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy9">
+    <Pos x="-462" y="20" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy10">
+    <Pos x="-462" y="20" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="point5xpoint5-greyCopy11">
+    <Pos x="-952" y="0" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="point5xpoint5-greyCopy12">
+    <Pos x="-952" y="0" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greyCopy13">
+    <Pos x="-952" y="40" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="point5xpoint5-greyCopy14">
+    <Pos x="-952" y="40" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-grey</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  
+  
+  
+  
+  
+  
+    
+   <Obj Type ="11" Name="point5xpoint5-orange">
+    <Mesh>./res/object/player/dx模型/point5xpoint5-orange.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-orangeCopy1">
+    <Pos x="-1492" y="0" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-orange</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-orangeCopy2">
+    <Pos x="-1492" y="20" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-orange</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-orangeCopy3">
+    <Pos x="-1492" y="0" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-orange</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+    <Obj Type ="12" Name="point5xpoint5-orangeCopy4">
+    <Pos x="-1492" y="20" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-orange</BindMesh>
+      <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+
+
+
+
+
+
+  
+  <Obj Type ="11" Name="point5xpoint5-green">
+    <Mesh>./res/object/player/dx模型/point5xpoint5-green.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greenCopy1">
+    <Pos x="-2709" y="40" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greenCopy2">
+    <Pos x="-2709" y="40" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greenCopy3">
+    <Pos x="-2729" y="40" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greenCopy4">
+    <Pos x="-2729" y="40" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greenCopy5">
+    <Pos x="-2729" y="60" z="-1"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="point5xpoint5-greenCopy6">
+    <Pos x="-2729" y="60" z="-21"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>point5xpoint5-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <Obj Type ="11" Name="1x1-orange">
+    <Mesh>./res/object/player/dx模型/1x1-orange.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-orangeCopy1">
+    <Pos x="-1642" y="40" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-orange</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+  
+  
+  
+  
+  
+  
+
+  <Obj Type ="11" Name="falling-yellow">
+    <Mesh>./res/object/player/dx模型/falling-yellow.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="falling-yellowCopy1">
+    <Pos x="-1642" y="40" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>falling-yellow</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  
+  
+    
+    
+    
+    
+  
+  
+    
+  <Obj Type ="11" Name="1x1-dark-grey">
+    <Mesh>./res/object/player/dx模型/1x1-dark-grey.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy1">
+    <Pos x="-52" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy2">
+    <Pos x="-92" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy3">
+    <Pos x="-492" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy4">
+    <Pos x="-812" y="40" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy5">
+    <Pos x="-962" y="80" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy6">
+    <Pos x="-962" y="120" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="1x1-dark-greyCopy7">
+    <Pos x="-1082" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy8">
+    <Pos x="-1282" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy9">
+    <Pos x="-1642" y="80" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="1x1-dark-greyCopy10">
+    <Pos x="-1570" y="220" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy11">
+    <Pos x="-1642" y="360" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy12">
+    <Pos x="-2242" y="200" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy13">
+    <Pos x="-2639" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-dark-greyCopy14">
+    <Pos x="-3032" y="40" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+
+
+  
+<Obj Type ="11" Name="1x1-dark-grey-105">
+  <Mesh>./res/object/player/dx模型/1x1-dark-grey-105.x</Mesh>
+  <Path>./res/object/player/dx模型/</Path>
+  <Roate x="0" y="0" z="0">0</Roate>
+</Obj>
+<Obj Type ="12" Name="1x1-dark-grey-105Copy1">
+  <Pos x="-1362" y="-10" z="-11"></Pos>
+  <Scale scalex="40" scaley="40" scalez="40"></Scale>
+  <BindMesh>1x1-dark-grey-105</BindMesh>
+  <Roate x="0" y="0" z="0">0</Roate>
+</Obj>
+
+
+
+
+
+
+  
+<Obj Type ="11" Name="1x1-yellow-103">
+  <Mesh>./res/object/player/dx模型/1x1-yellow-103.x</Mesh>
+  <Path>./res/object/player/dx模型/</Path>
+  <Roate x="0" y="0" z="0">0</Roate>
+</Obj>
+<Obj Type ="12" Name="1x1-yellow-103Copy1">
+  <Pos x="-1362" y="-6" z="-11"></Pos>
+  <Scale scalex="40" scaley="40" scalez="40"></Scale>
+  <BindMesh>1x1-yellow-103</BindMesh>
+  <Roate x="0" y="0.78539815" z="0">0</Roate>
+</Obj>
+
+
+
+
+
+  <Obj Type ="11" Name="1x1-blueBox">
+    <Mesh>./res/object/player/dx模型/1x1-blueBox.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-blueBoxCopy1">
+    <Pos x="-212" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-blueBox</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-blueBoxCopy2">
+    <Pos x="-492" y="320" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-blueBox</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-blueBoxCopy3">
+    <Pos x="-732" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-blueBox</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+
+
+
+
+  
+<Obj Type ="11" Name="moving-yellow">
+  <Mesh>./res/object/player/dx模型/moving-yellow.x</Mesh>
+  <Path>./res/object/player/dx模型/</Path>
+  <Roate x="0" y="0" z="0">0</Roate>
+</Obj>
+<Obj Type ="12" Name="moving-yellowCopy1">
+  <Pos x="-2346" y="124" z="-11"></Pos>
+  <Scale scalex="40" scaley="40" scalez="40"></Scale>
+  <BindMesh>moving-yellow</BindMesh>
+  <Roate x="0" y="0" z="0">0</Roate>
+</Obj>
+
+
+
+
+
+  <Obj Type ="11" Name="1x1-green">
+    <Mesh>./res/object/player/dx模型/1x1-green.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-greenCopy1">
+    <Pos x="-2162" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="1x1-greenCopy2">
+    <Pos x="-3032" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>1x1-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+ 
+
+
+  <Obj Type ="11" Name="2x1-dark-grey">
+    <Mesh>./res/object/player/dx模型/2x1-dark-grey.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="2x1-dark-greyCopy1">
+    <Pos x="-272" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="2x1-dark-greyCopy2">
+    <Pos x="-792" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="2x1-dark-greyCopy3">
+    <Pos x="-694" y="205" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="2x1-dark-greyCopy4">
+    <Pos x="-1102" y="40" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="2x1-dark-greyCopy5">
+    <Pos x="-1828" y="123" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+    <Obj Type ="12" Name="2x1-dark-greyCopy6">
+    <Pos x="-1828" y="296" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+      <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+    <Obj Type ="12" Name="2x1-dark-greyCopy7">
+    <Pos x="-2346" y="84" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+      <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="2x1-dark-greyCopy8">
+    <Pos x="-2892" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="2x1-dark-greyCopy9">
+    <Pos x="-2972" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  
+  
+  
+  
+  
+  
+  
+
+
+
+  <Obj Type ="11" Name="2x1-green">
+    <Mesh>./res/object/player/dx模型/2x1-green.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="2x1-greenCopy1">
+    <Pos x="-2182" y="200" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="2x1-greenCopy2">
+    <Pos x="-2699" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>2x1-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+  
+  
+  
+  
+  
+  <Obj Type ="11" Name="4x1-green-05">
+    <Mesh>./res/object/player/dx模型/4x1-green-05.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-green-05Copy1">
+    <Pos x="-2082" y="20" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-green-05</BindMesh>
+    <Roate x="0" y="0" z="-0.5035987">1</Roate>
+  </Obj>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <Obj Type ="11" Name="4x1-blue-05">
+    <Mesh>./res/object/player/dx模型/4x1-blue-05.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate>0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="4x1-blue-05Copy1">
+    <Pos x="-879" y="79" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-blue-05</BindMesh>
+    <Roate x="0" y="0" z="-0.418879">1</Roate>
+  </Obj>
+  
+    
+  
+ 
+   <Obj Type ="11" Name="4x1-orange-05">
+    <Mesh>./res/object/player/dx模型/4x1-orange-05.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="4x1-orange-05Copy1">
+    <Pos x="-1720" y="118" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-orange-05</BindMesh>
+    <Roate x="0" y="0" z="-0.32">1</Roate>
+    <Roate>-0.32</Roate>
+  </Obj>
+   <Obj Type ="12" Name="4x1-orange-05Copy2">
+    <Pos x="-1720" y="340" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-orange-05</BindMesh>
+    <Roate x="0" y="0" z="0.32">1</Roate>
+  </Obj>
+   
+    
+    
+    
+  <Obj Type ="11" Name="4x1-dark-grey">
+    <Mesh>./res/object/player/dx模型/4x1-dark-grey.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-dark-greyCopy1">
+    <Pos x="-287" y="100" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-dark-greyCopy2">
+    <Pos x="-287" y="260" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+ <Obj Type ="12" Name="4x1-dark-greyCopy3">
+    <Pos x="-452" y="200" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-dark-grey</BindMesh>
+   <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-dark-greyCopy4">
+    <Pos x="-2162" y="40" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-dark-greyCopy5">
+    <Pos x="-2759" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-dark-grey</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  
+  
+
+
+  
+  
+
+  <Obj Type ="11" Name="4x1-dark-greyX">
+    <Mesh>./res/object/player/dx模型/4x1-dark-greyX.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-dark-greyXCopy1">
+    <Pos x="-241" y="265" z="-51"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-dark-greyX</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-dark-greyXCopy2">
+    <Pos x="-1582" y="0" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-dark-greyX</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  
+  
+  
+  
+  
+  
+  
+  <Obj Type ="11" Name="4x1-orange">
+    <Mesh>./res/object/player/dx模型/4x1-orange.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-orangeCopy1">
+    <Pos x="-241" y="220" z="-51"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-orange</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+ <Obj Type ="12" Name="4x1-orangeCopy2">
+    <Pos x="-1670" y="220" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-orange</BindMesh>
+   <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+
+
+
+  <Obj Type ="11" Name="4x1-blue">
+    <Mesh>./res/object/player/dx模型/4x1-blue.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-blueCopy1">
+    <Pos x="-532" y="40" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-blue</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="4x1-blueCopy2">
+    <Pos x="-814" y="205" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-blue</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+   <Obj Type ="12" Name="4x1-blueCopy3">
+    <Pos x="-1222" y="40" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-blue</BindMesh>
+     <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+  
+  
+
+  
+  <Obj Type ="11" Name="4x1-green">
+    <Mesh>./res/object/player/dx模型/4x1-green.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-greenCopy1">
+    <Pos x="-2466" y="84" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-greenCopy2">
+    <Pos x="-2859" y="120" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-green</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
+  <Obj Type ="11" Name="4x1-green-10">
+    <Mesh>./res/object/map/4x1-green-10.x</Mesh>
+    <Path>./res/object/map/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-green-10Copy1">
+    <Pos x="-618" y="433" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>4x1-green-10</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-green-10Copy2">
+    <Pos x="-1291" y="242" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40 "></Scale>
+    <BindMesh>4x1-green-10</BindMesh>
+    <Roate x="0" y="0" z="0.3490658">1</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-green-10Copy3">
+    <Pos x="-1291" y="342" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40 "></Scale>
+    <BindMesh>4x1-green-10</BindMesh>
+    <Roate x="0" y="0" z="-0.3490658">1</Roate>
+  </Obj>
+  <Obj Type ="12" Name="4x1-green-10Copy4">
+    <Pos x="-1291" y="442" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40 "></Scale>
+    <BindMesh>4x1-green-10</BindMesh>
+    <Roate x="0" y="0" z="0.3490658">1</Roate>
+  </Obj>
+
+  
+ 
+
+
+
+
+
+
+  <Obj Type ="11" Name="MovingPlatformModel">
+    <Mesh>./res/object/player/dx模型/MovingPlatformModel.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="MovingPlatformModelCopy1">
+    <Pos x="-1963" y="122" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>MovingPlatformModel</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+     <Translation x="0" y="0.02" z="0">1</Translation>
+  </Obj>
+
+  
+  
+
+
+
+
+
+  <Obj Type ="11" Name="ladder">
+    <Mesh>./res/object/player/dx模型/ladder.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="ladderCopy1">
+    <Pos x="-2466" y="188" z="-34"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>ladder</BindMesh>
+    <Roate x="0" y="1.5707963" z="0">1</Roate>
+  </Obj>
+  <Obj Type ="12" Name="ladderCopy2">
+    <Pos x="-2516" y="344" z="-34"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>ladder</BindMesh>
+    <Roate x="0" y="1.5707963" z="0">1</Roate>
+  </Obj>
+  <Obj Type ="12" Name="ladderCopy3">
+    <Pos x="-814" y="309" z="-34"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>ladder</BindMesh>
+    <Roate x="0" y="1.5707963" z="0">1</Roate>
+  </Obj>
+
+  
+  
+  
+
+
+
+
+  
+<Obj Type ="11" Name="LadderPlatform">
+  <Mesh>./res/object/player/dx模型/LadderPlatform.x</Mesh>
+  <Path>./res/object/player/dx模型/</Path>
+  <Roate x="0" y="0" z="0">0</Roate>
+</Obj>
+<Obj Type ="12" Name="LadderPlatformCopy1">
+  <Pos x="-2476" y="268" z="-11"></Pos>
+  <Scale scalex="40" scaley="40" scalez="40"></Scale>
+  <BindMesh>LadderPlatform</BindMesh>
+  <Roate x="0" y="0" z="0">0</Roate>
+</Obj>
+  <Obj Type ="12" Name="LadderPlatformCopy2">
+    <Pos x="-2526" y="424" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>LadderPlatform</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  <Obj Type ="12" Name="LadderPlatformCopy3">
+    <Pos x="-824" y="389" z="-11"></Pos>
+    <Scale scalex="40" scaley="40" scalez="40"></Scale>
+    <BindMesh>LadderPlatform</BindMesh>
+    <Roate x="0" y="0" z="0">0</Roate>
+  </Obj>
+  
+  
+
+  
+  
+  
+  
+
+ 
+
+  <Obj Type ="13" Name="Player2">
+    <Mesh>./res/object/player/dx模型/yidongzou.x</Mesh>
+    <Path>./res/object/player/dx模型/</Path>
+</Obj>
+  <Obj Type ="2" Name="PlayerCopy1" MoveSpeed="3">
+    <Pos x="0" y="600" z="50"></Pos>
+    <Scale scalex="0.3" scaley="0.3" scalez="0.3"></Scale>
+    <Roate x="0" y="3.14" z="0">0</Roate>
+    <BindMesh>Player2</BindMesh>
+    <AnimationName>2</AnimationName>
+  </Obj>
+</ObjectS>
